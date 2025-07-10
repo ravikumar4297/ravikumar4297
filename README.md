@@ -30,7 +30,7 @@ I love using **data to tell meaningful stories** and solve real-world problems.
 | Project | Description | Tools Used |
 |--------|-------------|------------|
 | 🏠 **Airbnb Analysis** | Visualized trends & pricing using Tableau dashboards | Tableau, Excel |
-| 📉 **Sales Insights** | Cleaned & analyzed sales data to uncover business insights | Python, Pandas |
+| 📉 **Pizza sales insights** | Analyzed sales data to uncover business insights | SQL, CSV |
 | 📊 **Survey Dashboard** | Built interactive dashboards for survey analysis | SQL, Tableau |
 
 > 🔗 _Check my pinned repos below for more!_
@@ -40,7 +40,7 @@ I love using **data to tell meaningful stories** and solve real-world problems.
 ### 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravikumar4297)  
-- 📁 [Portfolio](https://your-portfolio-link.com)  
+- 📁 [Portfolio](https://github.com/ravikumar4297?tab=repositories)  
 - 📧 Email: ravi.rk4297@gmail.com
 
 ---
