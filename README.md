@@ -31,7 +31,7 @@ I love using **data to tell meaningful stories** and solve real-world problems.
 |--------|-------------|------------|
 | 🏠 **Airbnb Analysis** | Visualized trends & pricing using Tableau dashboards | Tableau, Excel |
 | 📉 **Pizza sales insights** | Analyzed sales data to uncover business insights | SQL, CSV |
-| 📊 **Survey Dashboard** | Built interactive dashboards for survey analysis | SQL, Tableau |
+| 📊 **Pizza sales anaysis** | Built interactive dashboards for analysis | Tableau, Excel |
 
 > 🔗 _Check my pinned repos below for more!_
 
