@@ -29,7 +29,7 @@ I love using **data to tell meaningful stories** and solve real-world problems.
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| 🏠 **Airbnb Analysis** | Visualized trends & pricing using Tableau dashboards | Tableau, Excel |
+| 🏠 **Sales Analysis** | EDA and insights from sales data using Jupyter Notebook. | Python, Jupyter Notebook, CSV |
 | 📉 **Pizza sales insights** | Analyzed sales data to uncover business insights | SQL, CSV |
 | 📊 **Pizza sales anaysis** | Built interactive dashboards for analysis | Tableau, Excel |
 
